@@ -1,0 +1,15 @@
+C:\Users\poyra\source\repos\InputCatch\InputCatch\bin\Debug\net6.0\InputCatch.exe
+C:\Users\poyra\source\repos\InputCatch\InputCatch\bin\Debug\net6.0\InputCatch.deps.json
+C:\Users\poyra\source\repos\InputCatch\InputCatch\bin\Debug\net6.0\InputCatch.runtimeconfig.json
+C:\Users\poyra\source\repos\InputCatch\InputCatch\bin\Debug\net6.0\InputCatch.dll
+C:\Users\poyra\source\repos\InputCatch\InputCatch\bin\Debug\net6.0\InputCatch.pdb
+C:\Users\poyra\source\repos\InputCatch\InputCatch\obj\Debug\net6.0\InputCatch.csproj.AssemblyReference.cache
+C:\Users\poyra\source\repos\InputCatch\InputCatch\obj\Debug\net6.0\InputCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poyra\source\repos\InputCatch\InputCatch\obj\Debug\net6.0\InputCatch.AssemblyInfoInputs.cache
+C:\Users\poyra\source\repos\InputCatch\InputCatch\obj\Debug\net6.0\InputCatch.AssemblyInfo.cs
+C:\Users\poyra\source\repos\InputCatch\InputCatch\obj\Debug\net6.0\InputCatch.csproj.CoreCompileInputs.cache
+C:\Users\poyra\source\repos\InputCatch\InputCatch\obj\Debug\net6.0\InputCatch.dll
+C:\Users\poyra\source\repos\InputCatch\InputCatch\obj\Debug\net6.0\refint\InputCatch.dll
+C:\Users\poyra\source\repos\InputCatch\InputCatch\obj\Debug\net6.0\InputCatch.pdb
+C:\Users\poyra\source\repos\InputCatch\InputCatch\obj\Debug\net6.0\InputCatch.genruntimeconfig.cache
+C:\Users\poyra\source\repos\InputCatch\InputCatch\obj\Debug\net6.0\ref\InputCatch.dll

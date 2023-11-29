@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodTesting", "MethodTesting\MethodTesting.csproj", "{CDBE4DDB-275E-45CB-B3D3-1D934F407B7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDBE4DDB-275E-45CB-B3D3-1D934F407B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBE4DDB-275E-45CB-B3D3-1D934F407B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDBE4DDB-275E-45CB-B3D3-1D934F407B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDBE4DDB-275E-45CB-B3D3-1D934F407B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73EF8C4E-7DC7-4822-A4DD-CD8952EB1FCC}
+	EndGlobalSection
+EndGlobal

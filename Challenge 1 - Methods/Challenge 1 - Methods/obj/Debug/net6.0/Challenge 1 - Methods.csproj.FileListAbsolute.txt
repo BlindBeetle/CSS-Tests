@@ -1,0 +1,15 @@
+C:\Users\poyra\source\repos\Challenge 1 - Methods\Challenge 1 - Methods\bin\Debug\net6.0\Challenge 1 - Methods.exe
+C:\Users\poyra\source\repos\Challenge 1 - Methods\Challenge 1 - Methods\bin\Debug\net6.0\Challenge 1 - Methods.deps.json
+C:\Users\poyra\source\repos\Challenge 1 - Methods\Challenge 1 - Methods\bin\Debug\net6.0\Challenge 1 - Methods.runtimeconfig.json
+C:\Users\poyra\source\repos\Challenge 1 - Methods\Challenge 1 - Methods\bin\Debug\net6.0\Challenge 1 - Methods.dll
+C:\Users\poyra\source\repos\Challenge 1 - Methods\Challenge 1 - Methods\bin\Debug\net6.0\Challenge 1 - Methods.pdb
+C:\Users\poyra\source\repos\Challenge 1 - Methods\Challenge 1 - Methods\obj\Debug\net6.0\Challenge 1 - Methods.csproj.AssemblyReference.cache
+C:\Users\poyra\source\repos\Challenge 1 - Methods\Challenge 1 - Methods\obj\Debug\net6.0\Challenge 1 - Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poyra\source\repos\Challenge 1 - Methods\Challenge 1 - Methods\obj\Debug\net6.0\Challenge 1 - Methods.AssemblyInfoInputs.cache
+C:\Users\poyra\source\repos\Challenge 1 - Methods\Challenge 1 - Methods\obj\Debug\net6.0\Challenge 1 - Methods.AssemblyInfo.cs
+C:\Users\poyra\source\repos\Challenge 1 - Methods\Challenge 1 - Methods\obj\Debug\net6.0\Challenge 1 - Methods.csproj.CoreCompileInputs.cache
+C:\Users\poyra\source\repos\Challenge 1 - Methods\Challenge 1 - Methods\obj\Debug\net6.0\Challenge 1 - Methods.dll
+C:\Users\poyra\source\repos\Challenge 1 - Methods\Challenge 1 - Methods\obj\Debug\net6.0\refint\Challenge 1 - Methods.dll
+C:\Users\poyra\source\repos\Challenge 1 - Methods\Challenge 1 - Methods\obj\Debug\net6.0\Challenge 1 - Methods.pdb
+C:\Users\poyra\source\repos\Challenge 1 - Methods\Challenge 1 - Methods\obj\Debug\net6.0\Challenge 1 - Methods.genruntimeconfig.cache
+C:\Users\poyra\source\repos\Challenge 1 - Methods\Challenge 1 - Methods\obj\Debug\net6.0\ref\Challenge 1 - Methods.dll

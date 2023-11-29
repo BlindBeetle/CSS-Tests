@@ -1,0 +1,15 @@
+C:\Users\poyra\source\repos\ifStatememntTesting\ifStatememntTesting\bin\Debug\net6.0\TemperatureProject.exe
+C:\Users\poyra\source\repos\ifStatememntTesting\ifStatememntTesting\bin\Debug\net6.0\TemperatureProject.deps.json
+C:\Users\poyra\source\repos\ifStatememntTesting\ifStatememntTesting\bin\Debug\net6.0\TemperatureProject.runtimeconfig.json
+C:\Users\poyra\source\repos\ifStatememntTesting\ifStatememntTesting\bin\Debug\net6.0\TemperatureProject.dll
+C:\Users\poyra\source\repos\ifStatememntTesting\ifStatememntTesting\bin\Debug\net6.0\TemperatureProject.pdb
+C:\Users\poyra\source\repos\ifStatememntTesting\ifStatememntTesting\obj\Debug\net6.0\TemperatureProject.csproj.AssemblyReference.cache
+C:\Users\poyra\source\repos\ifStatememntTesting\ifStatememntTesting\obj\Debug\net6.0\TemperatureProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poyra\source\repos\ifStatememntTesting\ifStatememntTesting\obj\Debug\net6.0\TemperatureProject.AssemblyInfoInputs.cache
+C:\Users\poyra\source\repos\ifStatememntTesting\ifStatememntTesting\obj\Debug\net6.0\TemperatureProject.AssemblyInfo.cs
+C:\Users\poyra\source\repos\ifStatememntTesting\ifStatememntTesting\obj\Debug\net6.0\TemperatureProject.csproj.CoreCompileInputs.cache
+C:\Users\poyra\source\repos\ifStatememntTesting\ifStatememntTesting\obj\Debug\net6.0\TemperatureProject.dll
+C:\Users\poyra\source\repos\ifStatememntTesting\ifStatememntTesting\obj\Debug\net6.0\refint\TemperatureProject.dll
+C:\Users\poyra\source\repos\ifStatememntTesting\ifStatememntTesting\obj\Debug\net6.0\TemperatureProject.pdb
+C:\Users\poyra\source\repos\ifStatememntTesting\ifStatememntTesting\obj\Debug\net6.0\TemperatureProject.genruntimeconfig.cache
+C:\Users\poyra\source\repos\ifStatememntTesting\ifStatememntTesting\obj\Debug\net6.0\ref\TemperatureProject.dll

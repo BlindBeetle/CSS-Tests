@@ -1,0 +1,15 @@
+C:\Users\poyra\source\repos\stringInput\stringInput\bin\Debug\net6.0\stringInput.exe
+C:\Users\poyra\source\repos\stringInput\stringInput\bin\Debug\net6.0\stringInput.deps.json
+C:\Users\poyra\source\repos\stringInput\stringInput\bin\Debug\net6.0\stringInput.runtimeconfig.json
+C:\Users\poyra\source\repos\stringInput\stringInput\bin\Debug\net6.0\stringInput.dll
+C:\Users\poyra\source\repos\stringInput\stringInput\bin\Debug\net6.0\stringInput.pdb
+C:\Users\poyra\source\repos\stringInput\stringInput\obj\Debug\net6.0\stringInput.csproj.AssemblyReference.cache
+C:\Users\poyra\source\repos\stringInput\stringInput\obj\Debug\net6.0\stringInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poyra\source\repos\stringInput\stringInput\obj\Debug\net6.0\stringInput.AssemblyInfoInputs.cache
+C:\Users\poyra\source\repos\stringInput\stringInput\obj\Debug\net6.0\stringInput.AssemblyInfo.cs
+C:\Users\poyra\source\repos\stringInput\stringInput\obj\Debug\net6.0\stringInput.csproj.CoreCompileInputs.cache
+C:\Users\poyra\source\repos\stringInput\stringInput\obj\Debug\net6.0\stringInput.dll
+C:\Users\poyra\source\repos\stringInput\stringInput\obj\Debug\net6.0\refint\stringInput.dll
+C:\Users\poyra\source\repos\stringInput\stringInput\obj\Debug\net6.0\stringInput.pdb
+C:\Users\poyra\source\repos\stringInput\stringInput\obj\Debug\net6.0\stringInput.genruntimeconfig.cache
+C:\Users\poyra\source\repos\stringInput\stringInput\obj\Debug\net6.0\ref\stringInput.dll
